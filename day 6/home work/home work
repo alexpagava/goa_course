@@ -1,0 +1,10 @@
+users_name=prin("what is your name")
+
+users_age=print("how old are you")
+
+users_surname=print("what is yousurname")
+
+
+users_livingplace=("where you live")
+
+print("hello how are you+user name+user surname+user age" )
